@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '662b66d740634bc782db47fa19f52094',
+  rootNotionPageId: 'c59fbc91c4bf491f854d1e557fe254d1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'cutebai',
-  domain: 'https://www.notion.so/CUTEBAI-662b66d740634bc782db47fa19f52094',
-  author: 'cuteBAI',
+  domain: 'https://www.notion.so/c59fbc91c4bf491f854d1e557fe254d1',
+  author: 'BaiJiaming',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
