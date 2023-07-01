@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'BaiJiaming',
-  domain: 'https://www.notion.so/c59fbc91c4bf491f854d1e557fe254d1?pvs=12',
+  domain: 'https://www.notion.so/c59fbc91c4bf491f854d1e557fe254d1',
   author: 'BaiJiaming',
 
   // open graph metadata (optional)
