@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'cutebai',
-  domain: 'https://www.notion.so/c59fbc91c4bf491f854d1e557fe254d1',
+  name: 'BaiJiaming',
+  domain: 'https://www.notion.so/c59fbc91c4bf491f854d1e557fe254d1?pvs=12',
   author: 'BaiJiaming',
 
   // open graph metadata (optional)
