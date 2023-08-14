@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'BaiJiaming and NanJingyi School Class 1, 2017 all students',
-  domain: 'www.notion.so/4d6aa56ca38c4594adb5f0f49a8ee31e',
+  domain: 'https://www.notion.so/4d6aa56ca38c4594adb5f0f49a8ee31e',
   author: 'NanJingyi School Class 1, 2017 all students,
 
   // open graph metadata (optional)
