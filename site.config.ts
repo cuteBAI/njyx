@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'BaiJiaming_and_NanJingyi_School_Class_1_2017_all_students',
+  name: 'BaiJiaming',
   domain: 'https://www.notion.so/4d6aa56ca38c4594adb5f0f49a8ee31e',
-  author: 'NanJingyi_School_Class 1_2017_all_students,
+  author: 'BaiJiaming',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
